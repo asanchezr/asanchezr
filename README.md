@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hey there 👋,
+
+I'm a full stack software developer/DevOps engineer from Canada.
+<br/>
+I'm interested in JavaScript, TypeScript, ReactJS, .NET Core, and Software Engineering :heart:
+
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png">  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">
+
+![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=asanchezr&show_icons=true&count_private=true)
 
 <!--
 **asanchezr/asanchezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
